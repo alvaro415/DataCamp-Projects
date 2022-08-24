@@ -6,10 +6,10 @@ Projects & Case Studies
 > to store all the projects I have been working
 > on to practice and improve my Data Science skills.
 
-| Name | Type | Tool | Libraries |
-| ------ | ------ | ------ |
-| This is the 1st project | Project | Python | Pandas, Numpy, Matplotlib, Seaborn
-| This is the 2nd project | Project | SQL / Python | Working with Window functions
+| Name                    | Type    | Tool         | Libraries                          |
+| ----------------------- | ------- | ------------ |------------------------------------|
+| This is the 1st project | Project | Python       | Pandas, Numpy, Matplotlib, Seaborn |
+| This is the 2nd project | Project | SQL / Python | Working with Window functions      |
 
 
 
