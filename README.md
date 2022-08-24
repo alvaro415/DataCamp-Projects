@@ -7,7 +7,7 @@ Projects & Case Studies
 > on to practice and improve my Data Science skills.
 
 | Name                    | Type    | Tool         | Libraries                          |
-| ----------------------- | ------- | ------------ |------------------------------------|
+| :----------------------- | :------- | :------------ |:------------------------------------|
 | This is the 1st project | Project | Python       | Pandas, Numpy, Matplotlib, Seaborn |
 | This is the 2nd project | Project | SQL / Python | Working with Window functions      |
 
