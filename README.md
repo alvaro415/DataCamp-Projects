@@ -8,7 +8,7 @@ Projects & Case Studies
 
 | Name                    | Type    | Tool         | Libraries                          |
 | :----------------------- | :------- | :------------ |:------------------------------------|
-| This is the 1st project | Project | Python       | Pandas, Numpy, Matplotlib, Seaborn |
+| A New Era of Data Analysis in Baseball | Project | Python       | Pandas, Numpy, Matplotlib, Seaborn |
 | This is the 2nd project | Project | SQL / Python | Working with Window functions      |
 
 
