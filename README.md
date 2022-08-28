@@ -1,7 +1,7 @@
-# DataCamp Projects
+# DataCamp Projects [<img alt="alt_text" width="30px" src="https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/244/original/Profile_Picture__3_.jpg" />](https://www.datacamp.com/)
 
 Projects & Case Studies 
-[<img alt="alt_text" width="25px" src="https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/244/original/Profile_Picture__3_.jpg" />](https://www.datacamp.com/)
+
 
 
 > The final goal of this repository is
@@ -16,9 +16,4 @@ Projects & Case Studies
 | Recreating John Snow's Ghost Map | Project | Python | Data Manipulation, Data Visualization, Importing & Cleaning Data | Pandas, Numpy, Matplotlib, Seaborn, Folium, Bokeh |
 | The Android App Market on Google Play | Project | Python | Data Manipulation, Data Visualization, Probability & Statistics | Pandas, Numpy|
 
-
-
-<img src="[![DataCamp](https://www.dayin.courses/wp-content/uploads/2021/01/DataCamp-Logo-2.png)](https://www.datacamp.com/)" alt="drawing" width="200"/>
-
-[![DataCamp](https://www.dayin.courses/wp-content/uploads/2021/01/DataCamp-Logo-2.png)|width=100](https://www.datacamp.com/)
 
