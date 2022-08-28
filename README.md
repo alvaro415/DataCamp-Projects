@@ -1,6 +1,7 @@
 # DataCamp Projects
 
-[<img alt="alt_text" width="25px" src="https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/244/original/Profile_Picture__3_.jpg" />](https://www.datacamp.com/) Projects & Case Studies 
+Projects & Case Studies 
+[<img alt="alt_text" width="25px" src="https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/244/original/Profile_Picture__3_.jpg" />](https://www.datacamp.com/)
 
 
 > The final goal of this repository is
