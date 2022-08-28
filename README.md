@@ -6,10 +6,13 @@ Projects & Case Studies
 > to store all the projects I have been working
 > on to practice and improve my Data Science skills within the DataCamp learning platform.
 
-| Name                    | Type    | Tool         | Libraries                          |
+| Name                    | Type    | Language         | Libraries                          |
 | :----------------------- | :------- | :------------ |:------------------------------------|
 | A New Era of Data Analysis in Baseball | Project | Python       | Pandas, Numpy, Matplotlib, Seaborn |
-| This is the 2nd project | Project | SQL / Python | Working with Window functions      |
+| Dr. Semmelweis and the Discovery of Handwashing | Project | Python | Pandas, Numpy, Matplotlib, Seaborn |
+| Investigating Netflix Movies and Guest Stars in The Office | Project | Python | Pandas, Numpy, Matplotlib, Seaborn |
+| Recreating John Snow's Ghost Map | Project | Python | Pandas, Numpy, Matplotlib, Seaborn, Folium, Bokeh |
+| The Android App Market on Google Play | Project | Python | Pandas, Numpy|
 
 
 
