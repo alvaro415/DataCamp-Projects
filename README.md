@@ -1,9 +1,5 @@
 # DataCamp Projects
-Projects & Case Studies
-
-
-
-[<img alt="alt_text" width="100px" src="https://www.dayin.courses/wp-content/uploads/2021/01/DataCamp-Logo-2.png" />](https://www.datacamp.com/)
+Projects & Case Studies [<img alt="alt_text" width="100px" src="https://www.dayin.courses/wp-content/uploads/2021/01/DataCamp-Logo-2.png" />](https://www.datacamp.com/)
 
 
 > The final goal of this repository is
