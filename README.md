@@ -5,6 +5,9 @@ Projects & Case Studies
 
 [![DataCamp](https://www.dayin.courses/wp-content/uploads/2021/01/DataCamp-Logo-2.png)|width=100](https://www.datacamp.com/)
 
+[<img alt="alt_text" width="40px" src="https://www.dayin.courses/wp-content/uploads/2021/01/DataCamp-Logo-2.png" />](https://www.datacamp.com/)
+
+
 > The final goal of this repository is
 > to store all the projects I have been working
 > on to practice and improve my Data Science skills within the DataCamp learning platform.
