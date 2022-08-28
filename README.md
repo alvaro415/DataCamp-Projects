@@ -1,7 +1,7 @@
 # DataCamp Projects
 Projects & Case Studies
 
-<img src="[drawing.jpg](https://www.dayin.courses/wp-content/uploads/2021/01/DataCamp-Logo-2.png)" alt="drawing" width="200"/>
+<img src="https://www.dayin.courses/wp-content/uploads/2021/01/DataCamp-Logo-2.png" alt="drawing" width="200"/>
 
 [![DataCamp](https://www.dayin.courses/wp-content/uploads/2021/01/DataCamp-Logo-2.png)](https://www.datacamp.com/)
 
