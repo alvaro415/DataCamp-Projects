@@ -1,11 +1,9 @@
 # DataCamp Projects
 Projects & Case Studies
 
-<img src="[![DataCamp](https://www.dayin.courses/wp-content/uploads/2021/01/DataCamp-Logo-2.png)](https://www.datacamp.com/)" alt="drawing" width="200"/>
 
-[![DataCamp](https://www.dayin.courses/wp-content/uploads/2021/01/DataCamp-Logo-2.png)|width=100](https://www.datacamp.com/)
 
-[<img alt="alt_text" width="40px" src="https://www.dayin.courses/wp-content/uploads/2021/01/DataCamp-Logo-2.png" />](https://www.datacamp.com/)
+[<img alt="alt_text" width="100px" src="https://www.dayin.courses/wp-content/uploads/2021/01/DataCamp-Logo-2.png" />](https://www.datacamp.com/)
 
 
 > The final goal of this repository is
@@ -22,5 +20,7 @@ Projects & Case Studies
 
 
 
+<img src="[![DataCamp](https://www.dayin.courses/wp-content/uploads/2021/01/DataCamp-Logo-2.png)](https://www.datacamp.com/)" alt="drawing" width="200"/>
 
+[![DataCamp](https://www.dayin.courses/wp-content/uploads/2021/01/DataCamp-Logo-2.png)|width=100](https://www.datacamp.com/)
 
