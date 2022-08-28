@@ -1,7 +1,7 @@
 # DataCamp Projects
 Projects & Case Studies
 
-[![DataCamp](https://www.dayin.courses/professional-partners/datacamp-data-science/)](https://www.datacamp.com/)
+[![DataCamp](https://www.dayin.courses/wp-content/uploads/2021/01/DataCamp-Logo-2.png)](https://www.datacamp.com/)
 
 > The final goal of this repository is
 > to store all the projects I have been working
