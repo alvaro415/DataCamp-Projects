@@ -3,7 +3,7 @@ Projects & Case Studies
 
 <img src="[![DataCamp](https://www.dayin.courses/wp-content/uploads/2021/01/DataCamp-Logo-2.png)](https://www.datacamp.com/)" alt="drawing" width="200"/>
 
-[![DataCamp](https://www.dayin.courses/wp-content/uploads/2021/01/DataCamp-Logo-2.png)](https://www.datacamp.com/)|width=100
+[![DataCamp](https://www.dayin.courses/wp-content/uploads/2021/01/DataCamp-Logo-2.png)|width=100](https://www.datacamp.com/)
 
 > The final goal of this repository is
 > to store all the projects I have been working
